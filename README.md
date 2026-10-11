@@ -4,7 +4,7 @@ Prototipo de sistema de información que captura telemetría de un dispositivo (
 consulta recursos del sistema operativo, persiste en CSV y genera un reporte. Integración de Sistemas de Información 2026-2,
 Universidad Santo Tomás – Segundo corte.
 
-**Autor:** [nombre y código] · **Programa:** Ingeniería en Informática
+**Autor:** [Jhojann aristizabal] · **Programa:** Ingeniería en Informática
 
 ## Flujo
 `Hardware (sensor) → Firmware (ENV-001 simulado) → TCP/IP → Sistema operativo → Python → CSV / log / reporte → Usuario`
