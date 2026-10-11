@@ -1,0 +1,126 @@
+{
+  "baseline": {
+    "duracion_s": 6.28,
+    "mensajes_recibidos": 120,
+    "mensajes_validos": 120,
+    "mensajes_perdidos_estimados": 0,
+    "rechazados_por_codigo": {},
+    "anomalias_detectadas": 6,
+    "errores_conexion": 0,
+    "reintentos_conexion": 0,
+    "errores_almacenamiento": 0,
+    "filas_descartadas_buffer": 0,
+    "latencia_ms": {
+      "n": 120,
+      "media": 0.055,
+      "p95": 0.507,
+      "max": 3.035
+    },
+    "procesamiento_ms": {
+      "n": 120,
+      "media": 1.119,
+      "p95": 1.538,
+      "max": 2.119
+    },
+    "recuperaciones_s": [],
+    "indicadores": {
+      "disponibilidad_comunicacion_pct": {
+        "valor": 100.0,
+        "meta": ">= 95",
+        "cumple": true
+      },
+      "datos_validos_pct": {
+        "valor": 100.0,
+        "meta": ">= 98",
+        "cumple": true
+      },
+      "tasa_errores_pct": {
+        "valor": 0.0,
+        "meta": "<= 5",
+        "cumple": true
+      },
+      "tiempo_recuperacion_s": {
+        "valor": 0.0,
+        "meta": "<= 5 (definido por caso)",
+        "cumple": true
+      }
+    },
+    "so": {
+      "os": "Windows",
+      "release": "11",
+      "python": "3.12.6",
+      "pid": 19432,
+      "env_hsf": "dev",
+      "cpu_pct": 42.0,
+      "mem_pct": 86.4,
+      "proc_rss_mb": 27.2,
+      "disk_free_gb": 71.72,
+      "disk_used_pct": 92.8
+    }
+  },
+  "fallos": {
+    "duracion_s": 9.8,
+    "mensajes_recibidos": 160,
+    "mensajes_validos": 143,
+    "mensajes_perdidos_estimados": 30,
+    "rechazados_por_codigo": {
+      "BAD_CRC": 9,
+      "BAD_FORMAT": 5,
+      "OUT_OF_RANGE": 3
+    },
+    "anomalias_detectadas": 7,
+    "errores_conexion": 1,
+    "reintentos_conexion": 1,
+    "errores_almacenamiento": 0,
+    "filas_descartadas_buffer": 0,
+    "latencia_ms": {
+      "n": 143,
+      "media": 0.007,
+      "p95": 0.0,
+      "max": 0.511
+    },
+    "procesamiento_ms": {
+      "n": 143,
+      "media": 1.066,
+      "p95": 1.429,
+      "max": 1.605
+    },
+    "recuperaciones_s": [
+      1.722
+    ],
+    "indicadores": {
+      "disponibilidad_comunicacion_pct": {
+        "valor": 84.21,
+        "meta": ">= 95",
+        "cumple": false
+      },
+      "datos_validos_pct": {
+        "valor": 89.38,
+        "meta": ">= 98",
+        "cumple": false
+      },
+      "tasa_errores_pct": {
+        "valor": 11.18,
+        "meta": "<= 5",
+        "cumple": false
+      },
+      "tiempo_recuperacion_s": {
+        "valor": 1.722,
+        "meta": "<= 5 (definido por caso)",
+        "cumple": true
+      }
+    },
+    "so": {
+      "os": "Windows",
+      "release": "11",
+      "python": "3.12.6",
+      "pid": 19432,
+      "env_hsf": "dev",
+      "cpu_pct": 43.4,
+      "mem_pct": 85.8,
+      "proc_rss_mb": 27.2,
+      "disk_free_gb": 71.72,
+      "disk_used_pct": 92.8
+    }
+  }
+}

@@ -1,0 +1,167 @@
+2026-10-11 11:47:53,800 | INFO    | evento=INICIO | resultado=OK | destino=127.0.0.1:62149
+2026-10-11 11:47:53,802 | INFO    | evento=CONEXION | resultado=OK | enlace establecido con el dispositivo
+2026-10-11 11:47:53,802 | INFO    | evento=TRAMA_OK | resultado=NORMAL | ENV-001 seq=1
+2026-10-11 11:47:53,853 | INFO    | evento=TRAMA_OK | resultado=NORMAL | ENV-001 seq=2
+2026-10-11 11:47:53,904 | INFO    | evento=TRAMA_OK | resultado=NORMAL | ENV-001 seq=3
+2026-10-11 11:47:53,955 | INFO    | evento=TRAMA_OK | resultado=NORMAL | ENV-001 seq=4
+2026-10-11 11:47:54,005 | INFO    | evento=TRAMA_OK | resultado=NORMAL | ENV-001 seq=5
+2026-10-11 11:47:54,055 | INFO    | evento=TRAMA_OK | resultado=NORMAL | ENV-001 seq=6
+2026-10-11 11:47:54,105 | INFO    | evento=TRAMA_OK | resultado=NORMAL | ENV-001 seq=7
+2026-10-11 11:47:54,156 | INFO    | evento=TRAMA_OK | resultado=NORMAL | ENV-001 seq=8
+2026-10-11 11:47:54,206 | INFO    | evento=TRAMA_OK | resultado=NORMAL | ENV-001 seq=9
+2026-10-11 11:47:54,257 | INFO    | evento=TRAMA_OK | resultado=NORMAL | ENV-001 seq=10
+2026-10-11 11:47:54,308 | INFO    | evento=TRAMA_OK | resultado=NORMAL | ENV-001 seq=11
+2026-10-11 11:47:54,358 | INFO    | evento=TRAMA_OK | resultado=NORMAL | ENV-001 seq=12
+2026-10-11 11:47:54,409 | INFO    | evento=TRAMA_OK | resultado=NORMAL | ENV-001 seq=13
+2026-10-11 11:47:54,459 | INFO    | evento=TRAMA_OK | resultado=NORMAL | ENV-001 seq=14
+2026-10-11 11:47:54,509 | INFO    | evento=TRAMA_OK | resultado=NORMAL | ENV-001 seq=15
+2026-10-11 11:47:54,560 | INFO    | evento=TRAMA_OK | resultado=NORMAL | ENV-001 seq=16
+2026-10-11 11:47:54,611 | WARNING | evento=TRAMA_RECHAZADA | resultado=BAD_CRC | integridad no coincide
+2026-10-11 11:47:54,661 | INFO    | evento=TRAMA_OK | resultado=NORMAL | ENV-001 seq=18
+2026-10-11 11:47:54,712 | INFO    | evento=TRAMA_OK | resultado=NORMAL | ENV-001 seq=19
+2026-10-11 11:47:54,763 | WARNING | evento=ANOMALIA | resultado=TEMP_ALTA | ENV-001 seq=20 temp=44.13
+2026-10-11 11:47:54,813 | INFO    | evento=TRAMA_OK | resultado=NORMAL | ENV-001 seq=21
+2026-10-11 11:47:54,863 | INFO    | evento=TRAMA_OK | resultado=NORMAL | ENV-001 seq=22
+2026-10-11 11:47:54,914 | INFO    | evento=TRAMA_OK | resultado=NORMAL | ENV-001 seq=23
+2026-10-11 11:47:54,965 | INFO    | evento=TRAMA_OK | resultado=NORMAL | ENV-001 seq=24
+2026-10-11 11:47:55,015 | INFO    | evento=TRAMA_OK | resultado=NORMAL | ENV-001 seq=25
+2026-10-11 11:47:55,067 | INFO    | evento=TRAMA_OK | resultado=NORMAL | ENV-001 seq=26
+2026-10-11 11:47:55,117 | INFO    | evento=TRAMA_OK | resultado=NORMAL | ENV-001 seq=27
+2026-10-11 11:47:55,204 | INFO    | evento=TRAMA_OK | resultado=NORMAL | ENV-001 seq=28
+2026-10-11 11:47:55,255 | WARNING | evento=TRAMA_RECHAZADA | resultado=BAD_FORMAT | Expecting property name enclosed in double quotes: line 1 column 2 (char 1)
+2026-10-11 11:47:55,306 | INFO    | evento=TRAMA_OK | resultado=NORMAL | ENV-001 seq=30
+2026-10-11 11:47:55,357 | INFO    | evento=TRAMA_OK | resultado=NORMAL | ENV-001 seq=31
+2026-10-11 11:47:55,407 | INFO    | evento=TRAMA_OK | resultado=NORMAL | ENV-001 seq=32
+2026-10-11 11:47:55,458 | INFO    | evento=TRAMA_OK | resultado=NORMAL | ENV-001 seq=33
+2026-10-11 11:47:55,508 | WARNING | evento=TRAMA_RECHAZADA | resultado=BAD_CRC | integridad no coincide
+2026-10-11 11:47:55,559 | INFO    | evento=TRAMA_OK | resultado=NORMAL | ENV-001 seq=35
+2026-10-11 11:47:55,610 | INFO    | evento=TRAMA_OK | resultado=NORMAL | ENV-001 seq=36
+2026-10-11 11:47:55,660 | INFO    | evento=TRAMA_OK | resultado=NORMAL | ENV-001 seq=37
+2026-10-11 11:47:55,711 | INFO    | evento=TRAMA_OK | resultado=NORMAL | ENV-001 seq=38
+2026-10-11 11:47:55,762 | INFO    | evento=TRAMA_OK | resultado=NORMAL | ENV-001 seq=39
+2026-10-11 11:47:55,812 | ERROR   | evento=CONEXION_PERDIDA | resultado=ConnectionError | se inicia reconexion con backoff
+2026-10-11 11:47:56,826 | WARNING | evento=REINTENTO | resultado=FALLIDO | TimeoutError; espera=0.2s
+2026-10-11 11:47:57,534 | INFO    | evento=CONEXION | resultado=OK | enlace establecido con el dispositivo
+2026-10-11 11:47:57,534 | INFO    | evento=TRAMA_OK | resultado=NORMAL | ENV-001 seq=70
+2026-10-11 11:47:57,534 | INFO    | evento=RECUPERACION | resultado=OK | 1.72s desde la deteccion
+2026-10-11 11:47:57,585 | INFO    | evento=TRAMA_OK | resultado=NORMAL | ENV-001 seq=71
+2026-10-11 11:47:57,636 | INFO    | evento=TRAMA_OK | resultado=NORMAL | ENV-001 seq=72
+2026-10-11 11:47:57,686 | INFO    | evento=TRAMA_OK | resultado=NORMAL | ENV-001 seq=73
+2026-10-11 11:47:57,737 | INFO    | evento=TRAMA_OK | resultado=NORMAL | ENV-001 seq=74
+2026-10-11 11:47:57,787 | INFO    | evento=TRAMA_OK | resultado=NORMAL | ENV-001 seq=75
+2026-10-11 11:47:57,838 | INFO    | evento=TRAMA_OK | resultado=NORMAL | ENV-001 seq=76
+2026-10-11 11:47:57,888 | INFO    | evento=TRAMA_OK | resultado=NORMAL | ENV-001 seq=77
+2026-10-11 11:47:57,938 | INFO    | evento=TRAMA_OK | resultado=NORMAL | ENV-001 seq=78
+2026-10-11 11:47:57,989 | INFO    | evento=TRAMA_OK | resultado=NORMAL | ENV-001 seq=79
+2026-10-11 11:47:58,040 | WARNING | evento=ANOMALIA | resultado=TEMP_ALTA | ENV-001 seq=80 temp=39.13
+2026-10-11 11:47:58,090 | INFO    | evento=TRAMA_OK | resultado=NORMAL | ENV-001 seq=81
+2026-10-11 11:47:58,141 | WARNING | evento=TRAMA_RECHAZADA | resultado=OUT_OF_RANGE | temp_c=999.0 fuera de [-40.0,85.0]
+2026-10-11 11:47:58,191 | INFO    | evento=TRAMA_OK | resultado=NORMAL | ENV-001 seq=83
+2026-10-11 11:47:58,242 | INFO    | evento=TRAMA_OK | resultado=NORMAL | ENV-001 seq=84
+2026-10-11 11:47:58,292 | WARNING | evento=TRAMA_RECHAZADA | resultado=BAD_CRC | integridad no coincide
+2026-10-11 11:47:58,342 | INFO    | evento=TRAMA_OK | resultado=NORMAL | ENV-001 seq=86
+2026-10-11 11:47:58,393 | WARNING | evento=TRAMA_RECHAZADA | resultado=BAD_FORMAT | Expecting property name enclosed in double quotes: line 1 column 2 (char 1)
+2026-10-11 11:47:58,444 | INFO    | evento=TRAMA_OK | resultado=NORMAL | ENV-001 seq=88
+2026-10-11 11:47:58,495 | INFO    | evento=TRAMA_OK | resultado=NORMAL | ENV-001 seq=89
+2026-10-11 11:47:58,545 | INFO    | evento=TRAMA_OK | resultado=NORMAL | ENV-001 seq=90
+2026-10-11 11:47:58,596 | INFO    | evento=TRAMA_OK | resultado=NORMAL | ENV-001 seq=91
+2026-10-11 11:47:58,646 | INFO    | evento=TRAMA_OK | resultado=NORMAL | ENV-001 seq=92
+2026-10-11 11:47:58,697 | INFO    | evento=TRAMA_OK | resultado=NORMAL | ENV-001 seq=93
+2026-10-11 11:47:58,747 | INFO    | evento=TRAMA_OK | resultado=NORMAL | ENV-001 seq=94
+2026-10-11 11:47:58,798 | INFO    | evento=TRAMA_OK | resultado=NORMAL | ENV-001 seq=95
+2026-10-11 11:47:58,848 | INFO    | evento=TRAMA_OK | resultado=NORMAL | ENV-001 seq=96
+2026-10-11 11:47:58,899 | INFO    | evento=TRAMA_OK | resultado=NORMAL | ENV-001 seq=97
+2026-10-11 11:47:58,950 | INFO    | evento=TRAMA_OK | resultado=NORMAL | ENV-001 seq=98
+2026-10-11 11:47:59,001 | INFO    | evento=TRAMA_OK | resultado=NORMAL | ENV-001 seq=99
+2026-10-11 11:47:59,051 | WARNING | evento=ANOMALIA | resultado=TEMP_ALTA | ENV-001 seq=100 temp=40.81
+2026-10-11 11:47:59,101 | INFO    | evento=TRAMA_OK | resultado=NORMAL | ENV-001 seq=101
+2026-10-11 11:47:59,152 | WARNING | evento=TRAMA_RECHAZADA | resultado=BAD_CRC | integridad no coincide
+2026-10-11 11:47:59,202 | INFO    | evento=TRAMA_OK | resultado=NORMAL | ENV-001 seq=103
+2026-10-11 11:47:59,253 | INFO    | evento=TRAMA_OK | resultado=NORMAL | ENV-001 seq=104
+2026-10-11 11:47:59,303 | INFO    | evento=TRAMA_OK | resultado=NORMAL | ENV-001 seq=105
+2026-10-11 11:47:59,354 | INFO    | evento=TRAMA_OK | resultado=NORMAL | ENV-001 seq=106
+2026-10-11 11:47:59,404 | INFO    | evento=TRAMA_OK | resultado=NORMAL | ENV-001 seq=107
+2026-10-11 11:47:59,455 | INFO    | evento=TRAMA_OK | resultado=NORMAL | ENV-001 seq=108
+2026-10-11 11:47:59,505 | INFO    | evento=TRAMA_OK | resultado=NORMAL | ENV-001 seq=109
+2026-10-11 11:47:59,556 | INFO    | evento=TRAMA_OK | resultado=NORMAL | ENV-001 seq=110
+2026-10-11 11:47:59,606 | INFO    | evento=TRAMA_OK | resultado=NORMAL | ENV-001 seq=111
+2026-10-11 11:47:59,657 | INFO    | evento=TRAMA_OK | resultado=NORMAL | ENV-001 seq=112
+2026-10-11 11:47:59,708 | INFO    | evento=TRAMA_OK | resultado=NORMAL | ENV-001 seq=113
+2026-10-11 11:47:59,758 | INFO    | evento=TRAMA_OK | resultado=NORMAL | ENV-001 seq=114
+2026-10-11 11:47:59,809 | INFO    | evento=TRAMA_OK | resultado=NORMAL | ENV-001 seq=115
+2026-10-11 11:47:59,859 | WARNING | evento=TRAMA_RECHAZADA | resultado=BAD_FORMAT | Expecting property name enclosed in double quotes: line 1 column 2 (char 1)
+2026-10-11 11:47:59,910 | INFO    | evento=TRAMA_OK | resultado=NORMAL | ENV-001 seq=117
+2026-10-11 11:47:59,960 | INFO    | evento=TRAMA_OK | resultado=NORMAL | ENV-001 seq=118
+2026-10-11 11:48:00,010 | WARNING | evento=TRAMA_RECHAZADA | resultado=BAD_CRC | integridad no coincide
+2026-10-11 11:48:00,061 | WARNING | evento=ANOMALIA | resultado=TEMP_ALTA | ENV-001 seq=120 temp=43.32
+2026-10-11 11:48:00,112 | INFO    | evento=TRAMA_OK | resultado=NORMAL | ENV-001 seq=121
+2026-10-11 11:48:00,163 | INFO    | evento=TRAMA_OK | resultado=NORMAL | ENV-001 seq=122
+2026-10-11 11:48:00,214 | WARNING | evento=TRAMA_RECHAZADA | resultado=OUT_OF_RANGE | temp_c=999.0 fuera de [-40.0,85.0]
+2026-10-11 11:48:00,264 | INFO    | evento=TRAMA_OK | resultado=NORMAL | ENV-001 seq=124
+2026-10-11 11:48:00,315 | INFO    | evento=TRAMA_OK | resultado=NORMAL | ENV-001 seq=125
+2026-10-11 11:48:00,365 | INFO    | evento=TRAMA_OK | resultado=NORMAL | ENV-001 seq=126
+2026-10-11 11:48:00,416 | INFO    | evento=TRAMA_OK | resultado=NORMAL | ENV-001 seq=127
+2026-10-11 11:48:00,467 | INFO    | evento=TRAMA_OK | resultado=NORMAL | ENV-001 seq=128
+2026-10-11 11:48:00,517 | INFO    | evento=TRAMA_OK | resultado=NORMAL | ENV-001 seq=129
+2026-10-11 11:48:00,568 | INFO    | evento=TRAMA_OK | resultado=NORMAL | ENV-001 seq=130
+2026-10-11 11:48:00,618 | INFO    | evento=TRAMA_OK | resultado=NORMAL | ENV-001 seq=131
+2026-10-11 11:48:00,669 | INFO    | evento=TRAMA_OK | resultado=NORMAL | ENV-001 seq=132
+2026-10-11 11:48:00,720 | INFO    | evento=TRAMA_OK | resultado=NORMAL | ENV-001 seq=133
+2026-10-11 11:48:00,771 | INFO    | evento=TRAMA_OK | resultado=NORMAL | ENV-001 seq=134
+2026-10-11 11:48:00,821 | INFO    | evento=TRAMA_OK | resultado=NORMAL | ENV-001 seq=135
+2026-10-11 11:48:00,872 | WARNING | evento=TRAMA_RECHAZADA | resultado=BAD_CRC | integridad no coincide
+2026-10-11 11:48:00,922 | INFO    | evento=TRAMA_OK | resultado=NORMAL | ENV-001 seq=137
+2026-10-11 11:48:00,973 | INFO    | evento=TRAMA_OK | resultado=NORMAL | ENV-001 seq=138
+2026-10-11 11:48:01,023 | INFO    | evento=TRAMA_OK | resultado=NORMAL | ENV-001 seq=139
+2026-10-11 11:48:01,074 | WARNING | evento=ANOMALIA | resultado=TEMP_ALTA | ENV-001 seq=140 temp=39.89
+2026-10-11 11:48:01,124 | INFO    | evento=TRAMA_OK | resultado=NORMAL | ENV-001 seq=141
+2026-10-11 11:48:01,175 | INFO    | evento=TRAMA_OK | resultado=NORMAL | ENV-001 seq=142
+2026-10-11 11:48:01,226 | INFO    | evento=TRAMA_OK | resultado=NORMAL | ENV-001 seq=143
+2026-10-11 11:48:01,276 | INFO    | evento=TRAMA_OK | resultado=NORMAL | ENV-001 seq=144
+2026-10-11 11:48:01,327 | WARNING | evento=TRAMA_RECHAZADA | resultado=BAD_FORMAT | Expecting property name enclosed in double quotes: line 1 column 2 (char 1)
+2026-10-11 11:48:01,378 | INFO    | evento=TRAMA_OK | resultado=NORMAL | ENV-001 seq=146
+2026-10-11 11:48:01,428 | INFO    | evento=TRAMA_OK | resultado=NORMAL | ENV-001 seq=147
+2026-10-11 11:48:01,479 | INFO    | evento=TRAMA_OK | resultado=NORMAL | ENV-001 seq=148
+2026-10-11 11:48:01,529 | INFO    | evento=TRAMA_OK | resultado=NORMAL | ENV-001 seq=149
+2026-10-11 11:48:01,580 | INFO    | evento=TRAMA_OK | resultado=NORMAL | ENV-001 seq=150
+2026-10-11 11:48:01,630 | INFO    | evento=TRAMA_OK | resultado=NORMAL | ENV-001 seq=151
+2026-10-11 11:48:01,680 | INFO    | evento=TRAMA_OK | resultado=NORMAL | ENV-001 seq=152
+2026-10-11 11:48:01,731 | WARNING | evento=TRAMA_RECHAZADA | resultado=BAD_CRC | integridad no coincide
+2026-10-11 11:48:01,781 | INFO    | evento=TRAMA_OK | resultado=NORMAL | ENV-001 seq=154
+2026-10-11 11:48:01,832 | INFO    | evento=TRAMA_OK | resultado=NORMAL | ENV-001 seq=155
+2026-10-11 11:48:01,882 | INFO    | evento=TRAMA_OK | resultado=NORMAL | ENV-001 seq=156
+2026-10-11 11:48:01,933 | INFO    | evento=TRAMA_OK | resultado=NORMAL | ENV-001 seq=157
+2026-10-11 11:48:01,983 | INFO    | evento=TRAMA_OK | resultado=NORMAL | ENV-001 seq=158
+2026-10-11 11:48:02,034 | INFO    | evento=TRAMA_OK | resultado=NORMAL | ENV-001 seq=159
+2026-10-11 11:48:02,084 | WARNING | evento=ANOMALIA | resultado=TEMP_ALTA | ENV-001 seq=160 temp=42.45
+2026-10-11 11:48:02,135 | INFO    | evento=TRAMA_OK | resultado=NORMAL | ENV-001 seq=161
+2026-10-11 11:48:02,185 | INFO    | evento=TRAMA_OK | resultado=NORMAL | ENV-001 seq=162
+2026-10-11 11:48:02,236 | INFO    | evento=TRAMA_OK | resultado=NORMAL | ENV-001 seq=163
+2026-10-11 11:48:02,286 | WARNING | evento=TRAMA_RECHAZADA | resultado=OUT_OF_RANGE | temp_c=999.0 fuera de [-40.0,85.0]
+2026-10-11 11:48:02,337 | INFO    | evento=TRAMA_OK | resultado=NORMAL | ENV-001 seq=165
+2026-10-11 11:48:02,387 | INFO    | evento=TRAMA_OK | resultado=NORMAL | ENV-001 seq=166
+2026-10-11 11:48:02,438 | INFO    | evento=TRAMA_OK | resultado=NORMAL | ENV-001 seq=167
+2026-10-11 11:48:02,488 | INFO    | evento=TRAMA_OK | resultado=NORMAL | ENV-001 seq=168
+2026-10-11 11:48:02,539 | INFO    | evento=TRAMA_OK | resultado=NORMAL | ENV-001 seq=169
+2026-10-11 11:48:02,590 | WARNING | evento=TRAMA_RECHAZADA | resultado=BAD_CRC | integridad no coincide
+2026-10-11 11:48:02,641 | INFO    | evento=TRAMA_OK | resultado=NORMAL | ENV-001 seq=171
+2026-10-11 11:48:02,692 | INFO    | evento=TRAMA_OK | resultado=NORMAL | ENV-001 seq=172
+2026-10-11 11:48:02,742 | INFO    | evento=TRAMA_OK | resultado=NORMAL | ENV-001 seq=173
+2026-10-11 11:48:02,792 | WARNING | evento=TRAMA_RECHAZADA | resultado=BAD_FORMAT | Expecting property name enclosed in double quotes: line 1 column 2 (char 1)
+2026-10-11 11:48:02,843 | INFO    | evento=TRAMA_OK | resultado=NORMAL | ENV-001 seq=175
+2026-10-11 11:48:02,894 | INFO    | evento=TRAMA_OK | resultado=NORMAL | ENV-001 seq=176
+2026-10-11 11:48:02,944 | INFO    | evento=TRAMA_OK | resultado=NORMAL | ENV-001 seq=177
+2026-10-11 11:48:02,995 | INFO    | evento=TRAMA_OK | resultado=NORMAL | ENV-001 seq=178
+2026-10-11 11:48:03,045 | INFO    | evento=TRAMA_OK | resultado=NORMAL | ENV-001 seq=179
+2026-10-11 11:48:03,096 | WARNING | evento=ANOMALIA | resultado=TEMP_ALTA | ENV-001 seq=180 temp=41.53
+2026-10-11 11:48:03,146 | INFO    | evento=TRAMA_OK | resultado=NORMAL | ENV-001 seq=181
+2026-10-11 11:48:03,197 | INFO    | evento=TRAMA_OK | resultado=NORMAL | ENV-001 seq=182
+2026-10-11 11:48:03,247 | INFO    | evento=TRAMA_OK | resultado=NORMAL | ENV-001 seq=183
+2026-10-11 11:48:03,298 | INFO    | evento=TRAMA_OK | resultado=NORMAL | ENV-001 seq=184
+2026-10-11 11:48:03,350 | INFO    | evento=TRAMA_OK | resultado=NORMAL | ENV-001 seq=185
+2026-10-11 11:48:03,401 | INFO    | evento=TRAMA_OK | resultado=NORMAL | ENV-001 seq=186
+2026-10-11 11:48:03,451 | WARNING | evento=TRAMA_RECHAZADA | resultado=BAD_CRC | integridad no coincide
+2026-10-11 11:48:03,502 | INFO    | evento=TRAMA_OK | resultado=NORMAL | ENV-001 seq=188
+2026-10-11 11:48:03,552 | INFO    | evento=TRAMA_OK | resultado=NORMAL | ENV-001 seq=189
+2026-10-11 11:48:03,603 | INFO    | evento=TRAMA_OK | resultado=NORMAL | ENV-001 seq=190
+2026-10-11 11:48:03,608 | INFO    | evento=FIN | resultado=OK | recibidas=160 validas=143
